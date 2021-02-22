@@ -1,0 +1,10 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T5	824-833	age_category	denotes	pediatric
+T4	599-608	age_category	denotes	pediatric
+T3	416-425	age_category	denotes	pediatric
+T9	296-301	age_end_unit	denotes	years
+T8	293-295	age_end	denotes	17
+T7	288-289	age_start	denotes	2
+T6	288-301	age_range	denotes	2 to 17 years
+T2	140-149	age_category	denotes	pediatric
+T1	37-46	age_category	denotes	pediatric

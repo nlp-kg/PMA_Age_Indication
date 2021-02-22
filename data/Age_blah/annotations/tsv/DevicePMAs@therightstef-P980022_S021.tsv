@@ -1,0 +1,11 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T9	1848-1849	age_start	denotes	7
+T8	618-619	age_start	denotes	7
+T7	624-626	age_end	denotes	up
+T6	1848-1856	age_range	denotes	7 and up
+T5	618-626	age_range	denotes	7 and up
+T4	1835-1841	age_category	denotes	adults
+T3	605-611	age_category	denotes	adults
+T2	1822-1830	age_category	denotes	children
+T10	1854-1856	age_end	denotes	up
+T1	592-600	age_category	denotes	children

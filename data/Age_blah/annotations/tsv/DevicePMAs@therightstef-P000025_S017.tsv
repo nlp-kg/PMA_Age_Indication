@@ -1,0 +1,15 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T25	1149-1157	age_category	denotes	children
+T24	945-953	age_category	denotes	children
+T23	682-688	age_start	denotes	twelve
+T22	690-692	age_start	denotes	12
+T21	694-700	age_start_unit	denotes	months
+T20	682-717	age_range	denotes	twelve (12) months of age and older
+T19	673-681	age_category	denotes	children
+T17	712-717	age_end	denotes	older
+T16	308-313	age_end	denotes	older
+T15	278-286	age_start	denotes	eighteen
+T14	288-290	age_start	denotes	18
+T13	292-297	age_start_unit	denotes	years
+T12	278-313	age_range	denotes	eighteen (18) years of age or older
+T11	271-277	age_category	denotes	adults

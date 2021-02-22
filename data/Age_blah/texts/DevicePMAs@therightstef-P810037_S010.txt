@@ -1,0 +1,1 @@
+Approval for converstion of the stand-alone MicroGas 7640 P02/PC02 Monitor to a plug-in module for the Kolormon Plus host.  The device, as modified, will be marketed under the trade name Kontron Kolormon Plus BloodGas Module 7267-505 and is indicated for cutaneous measurement of blood gas tensions (P02 or PC02).

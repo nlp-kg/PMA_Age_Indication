@@ -1,0 +1,1 @@
+Approval for the model 2490d/e carelink monitors and the server-based model 2491 device data management software application (ddma) which are indicated for use by the patient to interrogate their implanted device, and transfer the data to a private, secure server by use of a standard (analog) telephone connection.

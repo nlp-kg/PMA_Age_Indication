@@ -1,0 +1,1 @@
+Approval for the heart failure partner model 2936 with software version 1.1 which is indicated for interrogating and downloading diagnostic information obtained by guidant's pacemaker and defibrillator cardiac resynchronization therapy (crt-p and crt-d devices.

@@ -1,0 +1,1 @@
+Approval for access to programmable rest-rate and non-invasive physiological stimulation (NIPS) parameters.  The device is indicated for dual-chamber cardiac pacing with the ability to perform limited non-invasive electrophysiological studies.

@@ -1,0 +1,1 @@
+Approval for the ubis 5000.  The ubis 5000 is a quantitative ultrasound (aus) bone sonometer and is indicated for the measurement of broadband ultrasound attenuation (bua) of the calcaneus, as an aid to diagnose osteoporosis and to estimate the risk of subsequent atraumatic fracture.  The output is expressed in terms of both bua and t-score.

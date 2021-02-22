@@ -1,0 +1,9 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T8	1429-1437	age_category	denotes	neonatal
+T7	591-599	age_category	denotes	neonatal
+T6	1454-1459	age_category	denotes	adult
+T5	615-620	age_category	denotes	adult
+T4	1439-1448	age_category	denotes	pediatric
+T3	601-610	age_category	denotes	pediatric
+T2	40-49	age_category	denotes	pediatric
+T1	28-35	age_category	denotes	neonate

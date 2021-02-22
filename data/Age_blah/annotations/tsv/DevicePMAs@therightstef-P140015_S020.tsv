@@ -1,0 +1,10 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T6	1556-1563	age_end	denotes	greater
+T7	1539-1544	age_start_unit	denotes	years
+T8	1537-1538	age_start	denotes	6
+T5	1537-1563	age_range	denotes	6 years of age and greater
+T10	164-169	age_end_unit	denotes	years
+T3	161-163	age_end	denotes	11
+T4	159-160	age_start	denotes	6
+T2	159-169	age_range	denotes	6-11 years
+T1	135-144	age_category	denotes	pediatric

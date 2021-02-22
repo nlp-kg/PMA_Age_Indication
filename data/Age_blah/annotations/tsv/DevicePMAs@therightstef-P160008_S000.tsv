@@ -1,0 +1,10 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T7	817-830	age_range	denotes	1 and 8 years
+T4	658-678	age_range	denotes	greater than 8 years
+T17	825-830	age_end_unit	denotes	years
+T15	823-824	age_end	denotes	8
+T14	817-818	age_start	denotes	1
+T13	658-670	age_end	denotes	greater than
+T12	671-672	age_start	denotes	8
+T11	673-678	age_start_unit	denotes	years
+T10	800-808	age_category	denotes	children

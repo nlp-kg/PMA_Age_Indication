@@ -1,0 +1,5 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T6	388-393	age_end_unit	denotes	weeks
+T5	385-387	age_end	denotes	36
+T4	379-381	age_start	denotes	22
+T3	379-393	age_range	denotes	22 to 36 weeks

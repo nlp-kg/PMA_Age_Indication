@@ -1,0 +1,1 @@
+Approval for the addition of distance telemetry functionality to the currently approved programmer.  The device, as modified, will be marketed under the trade name medtronic model 2090 carelink programmer with telemetry c and is indicated for use in the interrogation and programming of implantable medical devices.

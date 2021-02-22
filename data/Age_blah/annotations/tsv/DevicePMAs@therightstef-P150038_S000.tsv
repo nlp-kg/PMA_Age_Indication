@@ -1,0 +1,4 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T4	250-252	age_start	denotes	22
+T3	237-245	age_end	denotes	at least
+T2	237-252	age_range	denotes	at least age 22

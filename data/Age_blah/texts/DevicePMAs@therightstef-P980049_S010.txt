@@ -1,0 +1,1 @@
+Approval for modifications to the programming head of the orchestra programmer, including the addition of high-speed telemetry and other changes.  The device, as modified, will be marketed under the trade name cpr3 programming head and is indicated for use with the orchestra dedicated programmer to interrogate and program ela medical pulse generators via bi-directional telemetry.

@@ -1,0 +1,11 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T11	863-868	age_start_unit	denotes	years
+T10	860-862	age_start	denotes	65
+T9	835-856	age_end	denotes	greater than or equal
+T8	835-868	age_range	denotes	greater than or equal to 65 years
+T6	128-133	age_start_unit	denotes	years
+T5	125-127	age_start	denotes	75
+T26	84-89	age_end_unit	denotes	years
+T3	81-83	age_end	denotes	74
+T4	75-77	age_start	denotes	65
+T1	75-89	age_range	denotes	65 to 74 years

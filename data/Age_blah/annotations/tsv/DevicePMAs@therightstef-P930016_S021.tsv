@@ -1,0 +1,5 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T5	417-422	age_end	denotes	older
+T6	401-406	age_start_unit	denotes	years
+T7	398-400	age_start	denotes	21
+T4	398-422	age_range	denotes	21 years of age or older

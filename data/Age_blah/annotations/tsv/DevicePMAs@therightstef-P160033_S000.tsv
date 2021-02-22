@@ -1,0 +1,16 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T37	2036-2041	age_end	denotes	older
+T36	2020-2025	age_start_unit	denotes	years
+T32	2018-2019	age_start	denotes	8
+T21	2018-2041	age_range	denotes	8 years of age or older
+T35	1392-1397	age_end_unit	denotes	years
+T31	1390-1391	age_end	denotes	8
+T17	1378-1383	age_category	denotes	child
+T33	864-869	age_end_unit	denotes	years
+T30	862-863	age_end	denotes	8
+T11	849-855	age_category	denotes	infant
+T10	840-845	age_category	denotes	child
+T34	324-329	age_end_unit	denotes	years
+T29	322-323	age_end	denotes	8
+T4	309-315	age_category	denotes	infant
+T3	300-305	age_category	denotes	child

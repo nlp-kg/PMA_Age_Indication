@@ -1,0 +1,1 @@
+Approval for a new version of programmer software for the ventritex(r) programmer pr-1500.  The device, as modified, will be marketed under the trade name prs v4.2h and is indicated for use with programmer pr-1500 and cadence pulse generator models v-105, v-115 and contour pulse generator models v-135, v-145.

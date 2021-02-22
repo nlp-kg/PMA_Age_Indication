@@ -1,0 +1,4 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T5	280-282	age_start	denotes	21
+T4	264-268	age_end	denotes	over
+T3	264-282	age_range	denotes	over the age of 21

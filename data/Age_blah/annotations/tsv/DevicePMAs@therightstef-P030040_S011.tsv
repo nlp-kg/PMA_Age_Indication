@@ -1,0 +1,22 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T15	2221-2226	age_end_unit	denotes	years
+T11	2219-2220	age_end	denotes	2
+T18	2209-2218	age_start	denotes	less than
+T13	2209-2226	age_range	denotes	less than 2 years
+T20	1612-1617	age_category	denotes	adult
+T22	1601-1606	age_end_unit	denotes	years
+T7	1598-1600	age_end	denotes	21
+T5	1588-1606	age_range	denotes	2 through 21 years
+T10	1588-1589	age_start	denotes	2
+T3	1577-1586	age_category	denotes	pediatric
+T14	1193-1198	age_end_unit	denotes	years
+T16	1191-1192	age_end	denotes	2
+T17	1181-1190	age_start	denotes	less than
+T12	1181-1198	age_range	denotes	less than 2 years
+T21	544-549	age_category	denotes	adult
+T19	533-538	age_end_unit	denotes	years
+T6	530-532	age_end	denotes	21
+T8	520-521	age_start	denotes	2
+T4	520-538	age_range	denotes	2 through 21 years
+T1	509-518	age_category	denotes	pediatric
+T2	31-40	age_category	denotes	pediatric

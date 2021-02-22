@@ -1,0 +1,203 @@
+# Term	Identifier
+neonates	age_category
+years	age_end_unit
+2	age_start
+21	age_end
+2 to 21 years	age_range
+adult	age_category
+pediatric	age_category
+neonatal	age_category
+adolescent	age_category
+neonate	age_category
+neonateserum	age_category
+50 years or older	age_range
+50	age_start
+older	age_end
+years	age_start_unit
+greater than	age_end
+36	age_start
+weeks	age_start_unit
+greater than or equal to 36 weeks	age_range
+up to	age_start
+up to 8 years	age_range
+8	age_end
+infant	age_category
+child	age_category
+children under 55 lbs (25 kg) or 8 years	age_range
+under	age_start
+adults	age_category
+children	age_category
+infants	age_category
+less than	age_end
+less than 8 years	age_range
+8 years old or more	age_range
+8	age_start
+7	age_start
+18 and older	age_range
+7 to 17	age_range
+adolescents	age_category
+18	age_start
+17	age_end
+twelve	age_start
+12	age_start
+months	age_start_unit
+twelve (12) months of age and older	age_range
+eighteen	age_start
+eighteen (18) years of age or older	age_range
+months	age_end_unit
+11	age_end
+eleven	age_end
+seventeen	age_end
+eighteen (18) months to seventeen (17) years eleven (11) months	age_range
+Children	age_category
+twelve (12) months to seventeen (17) years eleven (11) months	age_range
+25	age_start
+25 years and older	age_range
+30	age_start
+30 years and older	age_range
+21	age_start
+21 years and older	age_range
+18 or older	age_range
+over	age_end
+over the age of 21	age_range
+12-months and older	age_range
+twelve months and older	age_range
+75	age_end
+14	age_start
+14 to 75 years	age_range
+18 years of age or older	age_range
+2 and older	age_range
+18 months through 21 years	age_range
+22	age_start
+at least	age_end
+at least 22 years	age_range
+year	age_start_unit
+50 year and older	age_range
+21 years of age or older	age_range
+over 12 years	age_range
+20	age_end
+18 and 20 years	age_range
+<=	age_start
+<= 75 years	age_range
+18 years or older	age_range
+2 to 17 years	age_range
+greater	age_end
+6	age_start
+6 years of age and greater	age_range
+2 years and older	age_range
+50 years and older	age_range
+4	age_start
+4 years of age and older	age_range
+"	18 years of age or older"	age_range
+"	18"	age_start
+60	age_end
+18 and 60 years	age_range
+18	age_end
+under 18 years of age	age_range
+18 years of age and older	age_range
+60	age_start
+60 years of age or older	age_range
+8 years of age or older	age_range
+fifty	age_start
+fifty years of age and older	age_range
+greater than or equal	age_end
+greater than or equal to 18 years	age_range
+18 years and older	age_range
+seven	age_start
+seven years of age and older	age_range
+18-20 years	age_range
+21 years of age of older	age_range
+yrs	age_start_unit
+18 yrs of age or older	age_range
+sixteen	age_start
+sixteen years of age and older	age_range
+over 21 years	age_range
+at least age 22	age_range
+13	age_start
+13 years of age and older	age_range
+>=	age_end
+>= 18 years	age_range
+45	age_end
+21-45 years	age_range
+12 years of age and greater	age_range
+45	age_start
+45 years or older	age_range
+6-11 years	age_range
+50 years of age or older	age_range
+4 years or older	age_range
+weeks	age_end_unit
+36	age_end
+22 to 36 weeks	age_range
+6 months and older	age_range
+22 years of age or older	age_range
+fourteen years of age and older	age_range
+fourteen	age_start
+38	age_end
+24	age_start
+24 to 38 weeks	age_range
+41	age_end
+24 to 41 weeks	age_range
+Infants	age_category
+50 years of older	age_range
+40	age_start
+40 years of age or older	age_range
+less than	age_start
+1	age_start
+1 year of age and older	age_range
+50 or older	age_range
+45 and 60 years	age_range
+65	age_end
+50-65 years	age_range
+12 years of age or older	age_range
+21 yrs of age or older	age_range
+above	age_end
+22 and above	age_range
+41	age_start
+41 to 65 years	age_range
+60 and over	age_range
+65	age_start
+greater than or equal to 65 years	age_range
+75	age_start
+74	age_end
+65 to 74 years	age_range
+greater than or equal to 75 years	age_range
+adulthood	age_end
+18 years through adulthood	age_range
+40 years of age of greater	age_range
+greater than 18 years	age_range
+two	age_start
+two years of age through 17 years	age_range
+2 through 17 years	age_range
+1 and 8 years	age_range
+greater than 8 years	age_range
+2 years to 17 years	age_range
+four	age_start
+four years of age or older	age_range
+up	age_end
+7 and up	age_range
+four (4) years of age or older	age_range
+18 months through 17 years	age_range
+18 and over	age_range
+7 through 17	age_range
+12-months to 17 years, 11-months	age_range
+12	age_end
+8-12 years	age_range
+12 months to 17 years, 11-months	age_range
+18-months to 17-years	age_range
+60 years of age and older	age_range
+60 years of age of older	age_range
+22 years or older	age_range
+over the age of 21 years	age_range
+sixty	age_start
+sixty years of age or older	age_range
+12-months through 17 years, 11-months	age_range
+2	age_end
+less than 2 years	age_range
+2 through 21 years	age_range
+more	age_end
+22 years of age or more	age_range
+12 months through 17 years, 11 months	age_range
+12 months and older	age_range
+Adults	age_category
+22 or older	age_range
+40 years of age or greater	age_range

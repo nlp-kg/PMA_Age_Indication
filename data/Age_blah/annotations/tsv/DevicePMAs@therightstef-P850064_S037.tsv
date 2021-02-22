@@ -1,0 +1,11 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T14	615-620	age_end_unit	denotes	weeks
+T12	612-614	age_end	denotes	38
+T11	606-608	age_start	denotes	24
+T10	606-620	age_range	denotes	24 to 38 weeks
+T13	244-249	age_end_unit	denotes	weeks
+T7	241-243	age_end	denotes	41
+T6	235-237	age_start	denotes	24
+T5	235-249	age_range	denotes	24 to 41 weeks
+T2	144-151	age_category	denotes	Infants
+T1	91-98	age_category	denotes	infants

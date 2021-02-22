@@ -1,0 +1,17 @@
+# Id	Subject	Object	Predicate	Lexical cue
+T28	981-1021	age_range	denotes	children under 55 lbs (25 kg) or 8 years
+T27	434-474	age_range	denotes	children under 55 lbs (25 kg) or 8 years
+T25	443-448	age_start	denotes	under
+T26	990-995	age_start	denotes	under
+T24	1205-1210	age_category	denotes	adult
+T23	657-662	age_category	denotes	adult
+T22	909-915	age_category	denotes	adults
+T21	366-372	age_category	denotes	adults
+T20	1016-1021	age_end_unit	denotes	years
+T19	1014-1015	age_end	denotes	8
+T18	467-468	age_end	denotes	8
+T17	469-474	age_end_unit	denotes	years
+T16	981-989	age_category	denotes	children
+T15	434-442	age_category	denotes	children
+T14	969-976	age_category	denotes	infants
+T13	422-429	age_category	denotes	infants
