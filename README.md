@@ -9,3 +9,6 @@ This script produces openFDAPMA.csv which is used for analysis in the Clean_PMA_
 This csv is used later on in the Clean_PMA_Analysis analysis to characterize the types of devices available.
 
 AgeIndication_Gap notebook has code surrounding the lag time in approval between generic device categories (Product code)
+
+Annotations from PubAnnotation can be found here: http://pubannotation.org/projects/consensus_PMA_Age_Indications
+
